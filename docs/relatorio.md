@@ -1,8 +1,8 @@
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome do projeto:
-- Integrantes:
+- Nome do projeto:receitinhasBR
+- Integrantes:Maria Rezende/ Thales Pires/ Guilherme Carmo
 - Repositório: [link]
 
 ## Branches Criadas
