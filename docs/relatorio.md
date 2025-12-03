@@ -15,13 +15,13 @@
 
 ## Issues Criadas
 Liste as issues criadas e quem ficou responsável por cada uma.
-1- Criar receita de coxinha (Thales)
-2- Criar receita de Bobó de Camarão (Guilherme)
-3- Criar receita de Maniçoba (Maria)
-4- Revisar README.md (Thales)
-5- Padronizar nomes dos arquivos de receita (Maria)
-6- Discutir inclusão de receitas veganas (Todos)
-7- Adicionar receita colaborativa (cada membro contribui com 1 passo)(Todos)
+- 1- Criar receita de coxinha (Thales)
+- 2- Criar receita de Bobó de Camarão (Guilherme)
+- 3- Criar receita de Maniçoba (Maria)
+- 4- Revisar README.md (Thales)
+- 5- Padronizar nomes dos arquivos de receita (Maria)
+- 6- Discutir inclusão de receitas veganas (Todos)
+- 7- Adicionar receita colaborativa (cada membro contribui com 1 passo)(Todos)
 
 ## Pull Requests
 Descreva o processo de revisão e merges realizados.
