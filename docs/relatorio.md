@@ -6,12 +6,22 @@
 - Repositório: [(https://github.com/gabriellaRezende/receitinhasBR.git)]
 
 ## Branches Criadas
-- Descreva as branches criadas e o objetivo de cada uma.
-- Informe como os merges foram realizados (com PR? Revisão?).
+### Todas as branchs feitas foram por PR e review pelos devs
+
+- main
+  > Branch Principal onde mescla todas as outras criadas.
+- feature-receitaVegana (Thales Hayashi)
+  > Branch receita 1
+- feature-coxinha (Thales Hayashi)
+  > Branch receita 2
+- feature-manicoba (Gabriella Rezende)
+  > Branch receita 3
+- feature-boboDeCamarao (Guilherme Carmo)
+  > Branch receita 4
 
 ## Histórico de Commits
-- Exemplo de boas mensagens de commit.
-- Print ou link do gráfico de contribuições.
+<img width="910" height="474" alt="image" src="https://github.com/user-attachments/assets/4c2fb702-75f7-4e9b-a121-a4759b19745e" />
+
 
 ## Issues Criadas
 Liste as issues criadas e quem ficou responsável por cada uma.
@@ -27,13 +37,17 @@ Liste as issues criadas e quem ficou responsável por cada uma.
 Descreva o processo de revisão e merges realizados.
 
 ## Conflitos e Resoluções
-Explique se houve conflitos e como foram resolvidos.
+Não houve conflitos durante todo o desenvolvimento do trabalho.
 
 ## Dificuldades Enfrentadas
-Dúvidas ou problemas que surgiram.
+Não houve dúvidas.
 
 ## Principais Comandos Git Utilizados
-Liste e comente comandos importantes usados no projeto.
+git clone
+git add
+git commit -m ""
+git push 
+git checkout -b feature/<nome>
 
 ## Conclusão
-Aprendizados principais do grupo com a atividade.
+Foi um trabalho que fez nossa equipe colocar em prática as habilidades aprendidas em sala. 
