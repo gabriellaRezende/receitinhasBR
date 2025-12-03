@@ -1,30 +1,59 @@
-# Página Colaborativa de Receitas
+# 📖 Página Colaborativa de Receitas
 
-Este projeto tem como objetivo criar uma página colaborativa com receitas compartilhadas pelos integrantes do grupo.
+Este repositório faz parte da atividade prática da disciplina e tem como objetivo desenvolver uma página colaborativa onde cada integrante do grupo adicionará suas próprias receitas, utilizando Git e GitHub de forma organizada.
 
-## Instruções
-- Clique em “Use this template”
-- Crie seu próprio repositório em grupo
-- Siga os exercícios em docs/roteiro_de_atividades.pdf
-- Preencha docs/relatorio.md ao final
-- Entregue o link do repositório no GoogleClassRoom
-- Não esqueça de adicionar o professor como colaborador do seu projeto alexsteil-istec
+---
 
+## 🚀 Objetivo do Projeto
 
-## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+Criar um repositório colaborativo no GitHub contendo receitas organizadas em arquivos **Markdown** ou **HTML**, seguindo boas práticas de versionamento e trabalho em equipe.
 
-## Descrição
-Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
+---
 
-## Como Contribuir
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+## 📌 Instruções Iniciais
 
-## Serão avaliados:
-- Participação de cada aluno (Insights > Contributors)
-- Organização de branches e commits
-- Uso de issues e pull requests
-- Conflitos resolvidos (se houver)
-- Preenchimento do relatório final
+1. Clique em **“Use this template”** para criar o repositório do grupo.  
+2. Adicione todos os membros como colaboradores.  
+3. Siga as tarefas descritas em **docs/roteiro_de_atividades.pdf**.  
+4. Preencha o **docs/relatorio.md** após concluir as atividades.  
+5. Entregue o link do repositório no **Google Classroom**.  
+6. Adicione o professor como colaborador: **alexsteil-istec**
+
+---
+
+## 👥 Integrantes do Grupo
+
+- Guilherme Carmo
+- Maria Rezende
+- Thales Pires
+
+---
+
+## 🍲 Como Adicionar Receitas
+
+Cada integrante deve:
+
+- Criar um arquivo `.md` ou `.html` dentro da pasta **receitas/**  
+- Inserir uma receita com título, ingredientes, modo de preparo e imagens (opcional)  
+- Utilizar commits organizados e com mensagens claras  
+- Criar uma *branch* separada para cada contribuição  
+- Abrir um *pull request* para revisão antes de mesclar
+
+---
+
+## 🤝 Como Contribuir
+
+As orientações completas estão disponíveis em:  
+👉 **[CONTRIBUTING.md](CONTRIBUTING.md)**
+
+---
+
+## 📊 Critérios de Avaliação
+
+- Participação individual (Insights > Contributors)  
+- Organização de branches e commits  
+- Uso de issues e pull requests  
+- Resolução de conflitos (se houver)  
+- Preenchimento adequado do relatório final
+
+---
